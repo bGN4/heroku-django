@@ -1,6 +1,6 @@
 {
-  "name": "Python on Heroku example",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Python",
+  "description": "Python",
   "image": "heroku/python",
   "repository": "https://github.com/bGN4/heroku-django",
   "keywords": ["python", "django" ],
