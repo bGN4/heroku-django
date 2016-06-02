@@ -1,8 +1,8 @@
 {
-  "name": "Python",
-  "description": "Python",
+  "name": "heroku-django",
+  "description": "heroku-django",
   "image": "heroku/python",
   "repository": "https://github.com/bGN4/heroku-django",
   "keywords": ["python", "django" ],
-  "addons": [ "heroku-postgresql", "heroku-redis", "herokuconnect", "scheduler", "rediscloud" ]
+  "addons": [ "heroku-postgresql" ]
 }
